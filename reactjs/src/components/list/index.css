@@ -1,0 +1,15 @@
+.List-Container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.Widget-Container {
+  flex: 1 0 auto;
+  min-width: 200px;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  background-color: red;
+}
