@@ -1,0 +1,12 @@
+.Logo-Container {
+  width: 100px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  background-color: #000000;
+}
+
+.Logo-Text {
+  align-self: center;
+  color: #ffffff;
+}

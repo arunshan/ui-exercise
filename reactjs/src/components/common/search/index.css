@@ -1,0 +1,17 @@
+.Search-Container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.Search-Field {
+  height: 40px;
+  border: 1px solid #000000;
+  flex: 1 0 auto;
+  align-self: center;
+}
+
+.Search-Button {
+  width: 100px;
+  height: 40px;
+}
